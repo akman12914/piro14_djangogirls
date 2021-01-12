@@ -29,7 +29,7 @@ else:
     print("My ears are hurting! : (")
 
 def hi(name):
-   print('Hi'+name + '!')
+   print('Hi'+name + '.')
         
 
 girls = ['Rachel', 'Monica', 'Phoebe', 'Ola', 'You']
